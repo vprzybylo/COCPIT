@@ -19,7 +19,7 @@
 [license-url]: https://github.com/vprzybylo/cocpit/blob/master/LICENSE.md
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L9afVqbOYwHh836MFwnEzy88l3tPycWz?authuser=1#scrollTo=MKD112KpRCOe)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)](http://dx.doi.org/10.5281/zenodo.4687947)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)](http://dx.doi.org/10.5281/zenodo.4687946)
 
 
 <br />
