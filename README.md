@@ -165,8 +165,6 @@ Distributed under the MIT License.  See `LICENSE` for more information.
 
 Vanessa Przybylo - vprzybylo@albany.edu
 
-Project Link: [https://vprzybylo.github.io/cocpit/](https://vprzybylo.github.io/cocpit/)
-
 ## Acknowledgements
 * V. Przybylo, K. Sulia, C. Schmitt, and Z. Lebo (collaborators on this project) would like to thank the Department of Energy for support under DOE Grant Number DE-SC0021033.
 * Development support given by the Atmospheric Sciences Research Center ExTreme Collaboration, Innovation, and TEchnology (xCITE) Laboratory.
