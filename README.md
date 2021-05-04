@@ -140,7 +140,6 @@ see requirements.txt
   * Should image "sheets" be available on campaign archives, the following schematic shows how individual images are extracted
   * Code for the conceptual diagram is located in cocpit/process_png_sheets_with_text.py
   * <p align='center'><img src="README_graphics/flow_chart_sheets-1.png"/></p>
-
 * <a href="https://www.nvidia.com/en-us/">nvidia</a> 
   * Resources used: NVIDIA DGX-1 server utilizing Tesla V100 GPUs. This system is housed in the University at Albanys Tier-3 Data Center, and managed/maintained by the xCITE (ExTREME Collaboration, Innovation and TEchnology) laboratory. The base DGX-1 V100 system contains 8 Tesla V100 GPUs with a combined total of 40,960 CUDA (graphics) cores, 5120 Tensor cores, and 256GB of GPU memory, all linked by NVIDIAs 300GB/s NVLINK interconnect. The DGX-1 is optimized for data loading, data transformations, and training, which are all critical to the ML processes required by this project.
 
