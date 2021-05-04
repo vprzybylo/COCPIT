@@ -32,10 +32,10 @@
 		    
 
   <p align="center">
-    Classification of Cloud Particle Imagery and Thermodynamics
+    Classification of Cloud Particle Imagery and Thermodynamics</br>
     ·
     <a href="https://github.com/vprzybylo/cocpit/issues">
-    Report Bug</a>
+    Report Bug</a></br>
     ·
     <a href="https://github.com/vprzybylo/cocpit/issues">Request Feature</a>
   </p>
@@ -120,7 +120,6 @@ A tool for the characterization of cloud particle images from the (<a href="http
 
 **TOTAL IMAGES: 12,086,384**
 
-
 # Installation
 
 1. Clone the repo <br>
@@ -128,7 +127,6 @@ A tool for the characterization of cloud particle images from the (<a href="http
 3. docker image on dockerhub: vprzybylo/cocpit:v1.2.0 <br>
 	* note to run ./__main__.py requires raw image files (multiple GB per campaign)
 	* [Contact](#contact) for image request
-
 
 ## Prerequisites
 see requirements.txt
