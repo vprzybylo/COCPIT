@@ -121,11 +121,10 @@ A tool for the characterization of cloud particle images from the (<a href="http
 **TOTAL IMAGES: 12,086,384**
 
 # Installation
-
-1. Clone the repo <br>
-	git clone: [git@github.com:vprzybylo/cocpit.git](git@github.com:vprzybylo/cocpit.git)<br/>
-3. docker image on dockerhub: vprzybylo/cocpit:v1.2.0 <br>
-	* note to run ./__main__.py requires raw image files (multiple GB per campaign)
+- Note that the main.py executable in this repo is not runnable unless sufficient GPU architecture is in place.
+- In addition, this repo does not hold the training datasets (raw images) required (multiple GB per campaign).  
+- A public version of the saved CNN to execute will be made available at a later date. 
+	- The corresponding docker image can be found on dockerhub: vprzybylo/cocpit:v1.2.0 <br>
 	* [Contact](#contact) for image request
 
 ## Prerequisites
